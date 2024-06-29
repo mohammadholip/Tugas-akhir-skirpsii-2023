@@ -1,0 +1,107 @@
+table.display {/*Table Permohonan Cuti*/
+	width: 70%;
+	float:left;
+	margin-left:10px;
+	margin-top:15px;
+	clear: both;
+	border-collapse: collapse;
+}
+table.display td {
+	padding: 3px 10px;
+	border: 1px solid #aaa;
+	font-size: 11pt;
+	font-family: Courier New;
+}
+
+table.display1 {
+	width: 80%;
+	float:left;
+	margin-left:10px;
+	clear: both;
+	border-collapse: collapse;
+	margin-top:10px;
+}
+table.display1 td {
+	padding: 3px 10px;
+	border: 1px solid #aaa;
+	font-size: 11pt;
+	font-family: Courier New;
+}
+
+table.display2 {/*Tabe Data Karyawan*/
+	width: 60%;
+	float:left;
+	margin-left:10px;
+	clear: both;
+	border-collapse: collapse;
+	margin-top:15px;
+}
+
+table.display2 td {
+	padding: 3px 10px;
+	height:30px;
+	border: 1px solid #aaa;
+	font-size: 11pt;
+	font-family: Courier New;
+}
+
+table.display3 {
+	width: 98%;
+	float:left;
+	margin-left:10px;
+	clear: both;
+	border-collapse: collapse;
+	margin-top:20px;
+}
+
+table.display3 th {
+	font-size: 10pt;
+	font-family: Courier New;
+}
+
+table.display3 td {
+	padding: 3px 10px;
+	height:25px;
+	border: 1px solid #aaa;
+	font-size: 10pt;
+	font-family: Courier New;
+}
+
+table.display4 {/*Table data cuti karyawan*/
+	width: 100%;
+	float:left;
+	margin-left:10px;
+	clear: both;
+	border-collapse: collapse;
+	margin-top:20px;
+}
+table.display4 td {
+	padding: 3px 10px;
+	height:25px;
+	border: 1px solid #aaa;
+	font-size: 10pt;
+	font-family: Courier New;
+}
+
+table.display5 {/*Tabe sisa cuti*/
+	width: 60%;
+	float:left;
+	margin-left:10px;
+	clear: both;
+	border-collapse: collapse;
+	margin-top:15px;
+}
+
+
+table.display5 th {
+	font-size: 12pt;
+	font-family: Courier New;
+}
+
+table.display5 td {
+	padding: 3px 10px;
+	height:30px;
+	border: 1px solid #aaa;
+	font-size: 12pt;
+	font-family: Courier New;
+}
